@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Enemy
+  - Pit
+  - DeathPit
+  - Ally
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platforms
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2647024995
+    locked: 0
+  - name: Platforms
+    uniqueID: 4218187403
+    locked: 0
+  - name: Characters/Enemies
+    uniqueID: 761445675
+    locked: 0
+  - name: Characters/Players
+    uniqueID: 4185564559
+    locked: 0
+  - name: Prop
+    uniqueID: 1809306221
+    locked: 0
+  - name: HP Bars
+    uniqueID: 1675627367
+    locked: 0
